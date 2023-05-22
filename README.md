@@ -4,8 +4,11 @@
 <a href="https://www.linkedin.com/in/anand-raj-singh/">
   <img align="left" alt="Pranat's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 </br>
+
 Hi, I'm Anand Raj Singh , a passionate self-taught full stack Android developer and a software engineer from India
+
 </br>
 
 ### languages and tools:  
