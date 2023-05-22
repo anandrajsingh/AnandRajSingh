@@ -5,6 +5,19 @@
   <img align="left" alt="Pranat's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
+#### hi, I'm Anand Raj Singh , a passionate self-taught full stack Android developer and a software engineer from India
+</br>
+
+### languages and tools:  
+
+<code><img height="30" src="https://user-images.githubusercontent.com/68765059/147642098-b425411f-07b1-42cb-b133-e2f9b1c88998.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/68765059/147644556-3c507efd-7e00-4588-8a92-4d109e953d94.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/68765059/147668812-0289b3f6-b7d7-4daf-90e1-cc62912adc3c.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</br>
 <!--
 **anandrajsingh/AnandRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
