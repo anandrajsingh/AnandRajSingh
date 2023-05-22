@@ -1,5 +1,10 @@
-### Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=25px width="25px">
+<p align="center"><img src="https://user-images.githubusercontent.com/68765059/147643798-517a26cd-12ac-4250-90cd-bd48d78644a6.gif" height=400 width= 50% align="center" ></p>
 
+<a href="https://www.linkedin.com/in/anand-raj-singh/">
+  <img align="left" alt="Pranat's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br>
 <!--
 **anandrajsingh/AnandRajSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
