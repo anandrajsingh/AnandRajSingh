@@ -1,13 +1,16 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=25px width="25px">
-<p align="center"><img src="https://user-images.githubusercontent.com/68765059/147643798-517a26cd-12ac-4250-90cd-bd48d78644a6.gif" height=400 width= 50% align="center" ></p>
-
-<a href="https://www.linkedin.com/in/anand-raj-singh/">
-  <img align="left" alt="LinkedIn" width="35px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />
-</a>
+<h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=25px width="25px"></span>, I'm Anand Raj Singh</h1>
 
 </br>
 
-Hi, I'm Anand Raj Singh , a passionate self-taught full stack Android developer and a software engineer from India
+<p>I am a software developer with a passion for creating innovative software and solving complex problems. I have experience with Java and JavaScript, working on technologies like Android & MERN Stack.
+
+On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web-development, backend web-development and Android projects, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
+
+Thank you for visiting my profile, and I hope to connect with you soon.
+
+Sincerely,
+<p>Anand Raj Singh</p>
+</p>
 
 </br>
 
