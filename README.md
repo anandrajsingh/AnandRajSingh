@@ -2,9 +2,9 @@
 
 </br>
 
-<p>I am a software developer with a passion for creating innovative software and solving complex problems. I have experience with Java and JavaScript, working on technologies like Android & MERN Stack.
+<p>I am a software developer with a passion for creating innovative software and solving complex problems. I have experience with Java, JavaScript and TypeScript, working on technologies like Android, MERN & NextJs 
 
-On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web-development, backend web-development and Android projects, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
+On my profile, you will find a variety of projects that showcase my abilities and interests. From frontend web-development, backend web-development, Android and Devops projects, I have a diverse range of experience. Feel free to take a look around and reach out if you have any questions or want to collaborate on a project.
 
 Thank you for visiting my profile, and I hope to connect with you soon.
 
